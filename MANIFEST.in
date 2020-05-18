@@ -1,0 +1,5 @@
+recursive-include flask_request_response_processor *.py
+include setup.py
+include requirements.txt
+include LICENSE.txt
+include README.md
